@@ -168,9 +168,9 @@ Los algoritmos de enjambre demostraron ser eficaces en distintos problemas de Ma
 
 #  Integrantes
 
-* Integrante 1
-* Integrante 2
-* Integrante 3
+* Jose Armando Aquise Colque
+* jhon Cristian Quispe Carita
+* Miguel Adolfo Leiva Flores
 * Flavio zapana ticona
 
 ---
