@@ -1,7 +1,7 @@
 # Algoritmos-de-enjambre
 # 🧠 Aplicaciones de Algoritmos de Enjambre en Machine Learning
 
-## 📌 Descripción
+##  Descripción
 
 Este repositorio presenta la implementación de distintas aplicaciones de **algoritmos de inteligencia de enjambre** en problemas de aprendizaje automático.
 
@@ -14,15 +14,15 @@ El objetivo es demostrar cómo estos algoritmos pueden resolver problemas de opt
 
 ---
 
-# 🎯 Objetivo
+#  Objetivo
 
 Aplicar algoritmos de enjambre para resolver problemas de optimización en modelos de aprendizaje automático, analizando su comportamiento y resultados.
 
 ---
 
-# 📂 Casos de Estudio
+#  Casos de Estudio
 
-## 🔹 1. Feature Selection usando ABC
+##  1. Feature Selection usando ABC
 
 Se emplea el algoritmo **Artificial Bee Colony (ABC)** para seleccionar el subconjunto óptimo de características de un dataset.
 
@@ -38,7 +38,7 @@ Maximizar la precisión usando el menor número de variables posible.
 
 ---
 
-## 🔹 2. Optimización de Hiperparámetros con PSO
+##  2. Optimización de Hiperparámetros con PSO
 
 Se implementa **Particle Swarm Optimization (PSO)** para ajustar los hiperparámetros de un modelo Random Forest.
 
@@ -71,7 +71,7 @@ Wine Dataset
 
 ---
 
-## 🔹 3. Entrenamiento de Red Neuronal sin Backpropagation
+##  3. Entrenamiento de Red Neuronal sin Backpropagation
 
 Se propone el uso de algoritmos de enjambre para entrenar redes neuronales sin utilizar gradientes.
 
@@ -88,7 +88,7 @@ Se propone el uso de algoritmos de enjambre para entrenar redes neuronales sin u
 
 ---
 
-## 🔹 4. Clustering usando PSO
+##  4. Clustering usando PSO
 
 Se aplica PSO para resolver un problema de agrupamiento sobre el dataset Iris.
 
@@ -120,7 +120,7 @@ Iris Dataset
 
 ---
 
-# 🔁 Ciclo de los Algoritmos de Enjambre
+#  Ciclo de los Algoritmos de Enjambre
 
 En todos los casos se sigue el mismo proceso:
 
@@ -143,32 +143,12 @@ En todos los casos se sigue el mismo proceso:
 
 ---
 
-# 📁 Estructura del Repositorio
-
-```text
-proyecto-enjambre-ml/
-│
-├── feature-selection-abc/
-├── hyperparameter-tuning-pso/
-├── nn-training-swarm/
-├── clustering-pso/
-│
-├── informes/
-│   ├── informe_hyperparameter_tuning.pdf
-│   ├── informe_nn_training.pdf
-│   ├── informe_clustering.pdf
-│
-└── README.md
-```
-
----
-
-# 🚀 Ejecución
+#  Ejecución
 
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+https://github.com/Flavio-zt/Algoritmos-de-enjambre.git
 ```
 
 Abrir los notebooks en:
@@ -180,21 +160,21 @@ Ejecutar cada sección paso a paso.
 
 ---
 
-# 📊 Conclusiones
+#  Conclusiones
 
 Los algoritmos de enjambre demostraron ser eficaces en distintos problemas de Machine Learning, permitiendo optimizar modelos, reducir dimensionalidad y resolver tareas sin depender de métodos tradicionales como el descenso por gradiente.
 
 ---
 
-# 👨‍💻 Integrantes
+#  Integrantes
 
 * Integrante 1
 * Integrante 2
 * Integrante 3
-* Integrante 4
+* Flavio zapana ticona
 
 ---
 
 # 🔗 Repositorio
 
-Agregar aquí el enlace del proyecto en GitHub.
+https://github.com/Flavio-zt/Algoritmos-de-enjambre.git
