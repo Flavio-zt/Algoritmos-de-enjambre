@@ -1,5 +1,5 @@
 # Algoritmos-de-enjambre
-# 🧠 Aplicaciones de Algoritmos de Enjambre en Machine Learning
+#  Aplicaciones de Algoritmos de Enjambre en Machine Learning
 
 ##  Descripción
 
@@ -71,7 +71,7 @@ Wine Dataset
 
 ---
 
-##  3. Entrenamiento de Red Neuronal sin Backpropagation
+##  3. Entrenamiento de Red Neuronal sin Backpropagation con PSO
 
 Se propone el uso de algoritmos de enjambre para entrenar redes neuronales sin utilizar gradientes.
 
@@ -133,7 +133,7 @@ En todos los casos se sigue el mismo proceso:
 
 ---
 
-# ⚙️ Tecnologías Utilizadas
+#  Tecnologías Utilizadas
 
 * Python
 * NumPy
