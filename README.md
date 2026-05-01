@@ -175,6 +175,3 @@ Los algoritmos de enjambre demostraron ser eficaces en distintos problemas de Ma
 
 ---
 
-# 🔗 Repositorio
-
-https://github.com/Flavio-zt/Algoritmos-de-enjambre.git
